@@ -1,0 +1,22 @@
+
+n blue = #0F2656
+
+
+s blue = #008AFF;
+
+r color = #F15767;
+
+f1 color = #FDEBED;
+
+f2 color = #EBF9F4;
+
+f3 color = #FFF7E8;
+
+footer deep blue = #008AFF;
+
+Copyright	©	&#169;
+
+
+Unleash you creativity
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
