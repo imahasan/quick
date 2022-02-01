@@ -1,4 +1,0 @@
-
-n blue = #0F2656
-
-s blue = #008AFF;
